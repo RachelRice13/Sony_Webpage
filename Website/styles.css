@@ -1,0 +1,65 @@
+body {
+	font-family:Times New Roman; 
+	font-size:large;
+	background-repeat:no-repeat; 
+	background-attachment: fixed; 
+	background-size: cover;
+}
+
+
+img#playstation {
+	width:200px;
+	height:150px;
+}
+
+table#home {
+	width:100%;
+	text-align:center;
+	font-size:100px;
+}
+
+table#home td.homepic {
+	text-align:left;
+	width:100px;
+	height:100px;
+	margin-bottom:30px;
+}
+
+img.homepic {
+	height:100px;
+	width:150px;
+}
+
+table#home td.playstation_Logo {
+	height:100px;
+	width:100px;
+	float:right;
+	margin-bottom:30px;
+}
+
+img.playstation_Logo {
+	height:100px;
+	width:100px;
+}
+
+table#home td.sony_Logo {
+	height:150px;
+	width:200px;
+}
+
+img.sony_Logo {
+	height:150px;
+	width:200px;
+}
+
+table#options {
+	width:20%;
+	font-size:25px;
+	border:3px solid black;
+	float:bottom;
+}
+
+table#options th {
+	border:3px solid black;
+	text-align:center;
+}

@@ -1,0 +1,44 @@
+<body {
+	font-size: 22pt;
+	font-family: Times New Roman;
+	font-weight: 100;
+	size: medium;
+	color: limegreen;
+	background-color: honeydew;
+	padding-left: 200px;
+}
+
+h3 {
+	font-size: 24pt;
+	font-family: Comic Sans MS;
+	color:red;
+}
+
+div {
+	text-align: left;
+}
+
+img#headquarters {
+	float: right;
+	width: 150px;
+}
+
+.Sony {
+	color:navy;
+	font-size:14pt;
+}
+
+a:link {color: blue;}
+
+a:visited {color:pink;}
+
+a:hover {color:orange;}
+
+iframe#history {
+	position: absolute;
+	top: 0;
+	left: 5%;
+	height: 5%;
+	width: 100%
+	border: 1px solid gray;
+}
